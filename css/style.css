@@ -1216,6 +1216,20 @@ ol {
 	/* Add a hover color */
 }
 
+.phone-link {
+	text-decoration: none;
+	/* Remove underline if desired */
+	color: inherit;
+	/* Inherit the color from the parent */
+}
+
+.phone-link:hover {
+	cursor: pointer;
+	/* Show pointer cursor on hover */
+	color: #dfa667;
+	/* Optional: Change text color on hover */
+}
+
 /*---------------------
   Project Details
 -----------------------*/
