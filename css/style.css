@@ -1576,9 +1576,9 @@ ol {
 
 .about__pic__inner:after {
 	position: absolute;
-	left: 50px;
+	left: 100px;
 	top: 50px;
-	height: 600px;
+	height: 550px;
 	width: 470px;
 	border: 15px solid rgba(185, 175, 134, 0.2);
 	content: "";
